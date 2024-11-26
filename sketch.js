@@ -1,4 +1,4 @@
-let balls = [];
+let balls = []
 let pockets = [];
 let tableWidth = 800;
 let tableHeight = 400;
